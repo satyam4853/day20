@@ -1,0 +1,13 @@
+C:\Users\SATYAM VAISHNAV\fellowship_program\day20\MoodAnalysesWithCore\MoodAnalysesWithCore\bin\Debug\netcoreapp3.1\MoodAnalysesWithCore.exe
+C:\Users\SATYAM VAISHNAV\fellowship_program\day20\MoodAnalysesWithCore\MoodAnalysesWithCore\bin\Debug\netcoreapp3.1\MoodAnalysesWithCore.deps.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day20\MoodAnalysesWithCore\MoodAnalysesWithCore\bin\Debug\netcoreapp3.1\MoodAnalysesWithCore.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day20\MoodAnalysesWithCore\MoodAnalysesWithCore\bin\Debug\netcoreapp3.1\MoodAnalysesWithCore.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day20\MoodAnalysesWithCore\MoodAnalysesWithCore\bin\Debug\netcoreapp3.1\MoodAnalysesWithCore.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day20\MoodAnalysesWithCore\MoodAnalysesWithCore\bin\Debug\netcoreapp3.1\MoodAnalysesWithCore.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day20\MoodAnalysesWithCore\MoodAnalysesWithCore\obj\Debug\netcoreapp3.1\MoodAnalysesWithCore.csproj.AssemblyReference.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day20\MoodAnalysesWithCore\MoodAnalysesWithCore\obj\Debug\netcoreapp3.1\MoodAnalysesWithCore.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day20\MoodAnalysesWithCore\MoodAnalysesWithCore\obj\Debug\netcoreapp3.1\MoodAnalysesWithCore.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\fellowship_program\day20\MoodAnalysesWithCore\MoodAnalysesWithCore\obj\Debug\netcoreapp3.1\MoodAnalysesWithCore.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day20\MoodAnalysesWithCore\MoodAnalysesWithCore\obj\Debug\netcoreapp3.1\MoodAnalysesWithCore.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day20\MoodAnalysesWithCore\MoodAnalysesWithCore\obj\Debug\netcoreapp3.1\MoodAnalysesWithCore.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day20\MoodAnalysesWithCore\MoodAnalysesWithCore\obj\Debug\netcoreapp3.1\MoodAnalysesWithCore.genruntimeconfig.cache
